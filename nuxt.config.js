@@ -15,6 +15,9 @@ module.exports = {
       { property: 'format-detection', content: 'telephone=no' },
     ],
   },
+  link: [ //linkタグ関連
+    { rel: 'icon', href: '/favicon.ico' }
+  ],
   css: [
     // プロジェクト内の CSS ファイル
     '@/assets/css/reset.css',
