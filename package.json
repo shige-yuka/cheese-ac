@@ -1,0 +1,34 @@
+{
+  "name": "cheese-ac",
+  "version": "1.0.0",
+  "description": "テストでHP作ってみます",
+  "main": "index.js",
+  "dependencies": {
+    "aframe-extras": "^4.1.2",
+    "aframe-html-shader": "^0.2.0",
+    "aframe-mountain-component": "^0.3.3",
+    "aframe-text-geometry-component": "^0.5.1",
+    "nuxt": "^1.4.1",
+    "vue-carousel": "^0.10.0"
+  },
+  "devDependencies": {
+    "postcss-import": "^11.1.0",
+    "postcss-loader": "^2.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shige-yuka/cheese-ac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shige-yuka/cheese-ac/issues"
+  },
+  "homepage": "https://github.com/shige-yuka/cheese-ac#readme"
+}
