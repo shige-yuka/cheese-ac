@@ -91,7 +91,7 @@
 	display: flex;
 	flex-wrap: wrap;
 	width: 100%;
-	max-width: 520px;
+	max-width: 550px;
 	margin: var(--medium) auto var(--wide);
 	padding: 0 var(--narrow);
 }

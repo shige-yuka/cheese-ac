@@ -145,7 +145,7 @@
 	max-width: 20rem;
 	border: 1px solid #bfbfbf;
 	border-radius: 4px;
-	margin-top: 10px;
+	margin-top: 6px;
 	padding: var(--xnarrow);
 }
 .checkboxWrap {
