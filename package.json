@@ -4,16 +4,16 @@
   "description": "テストでHP作ってみます",
   "main": "index.js",
   "dependencies": {
-    "aframe-extras": "^4.1.2",
+    "aframe-extras": "^4.1.3",
     "aframe-html-shader": "^0.2.0",
     "aframe-mountain-component": "^0.3.3",
     "aframe-text-geometry-component": "^0.5.1",
-    "nuxt": "^1.4.1",
-    "vue-carousel": "^0.10.0"
+    "nuxt": "^1.4.2",
+    "vue-carousel": "^0.13.1"
   },
   "devDependencies": {
-    "postcss-import": "^11.1.0",
-    "postcss-loader": "^2.1.6"
+    "postcss-import": "^12.0.0",
+    "postcss-loader": "^3.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
